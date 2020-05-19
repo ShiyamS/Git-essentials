@@ -1,1 +1,1 @@
-This is my firts branch ,in the new branch.
+This is my firts branch adding a new in master as well as new branch
